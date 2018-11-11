@@ -14,5 +14,7 @@ ng serve
 the app should be running on localhost:4200
 
 Note:
+
 in order for the app to function you need to have a running api
-you can use [this](https://github.com/Mohamed-Ashour/todo-app-api) as your api or use your own
+
+you can use [this api](https://github.com/Mohamed-Ashour/todo-app-api) or make your own.
