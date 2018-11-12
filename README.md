@@ -8,6 +8,9 @@
 # install angular cli
 npm install -g @angular/cli
 
+# install dependencies
+npm install
+
 # run the app 
 ng serve
 ```
